@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/FelipeD-FiveTalent/sls-append-uuid-to-s3-name/issues"
   },
-  "homepage": "https://github.com/FelipeD-FiveTalent/sls-append-uuid-to-s3-name#readme"
+  "homepage": "https://github.com/FelipeD-FiveTalent/sls-append-uuid-to-s3-name#readme",
+  "dependencies": {
+    "uuid": "^3.3.3"
+  }
 }
